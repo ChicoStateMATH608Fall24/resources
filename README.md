@@ -12,3 +12,4 @@ Resources and links on topics related to 608
 * [Regular Expression HOWTO](https://docs.python.org/3/howto/regex.html) in Python
 * [Regular Expressions](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.extract.html) in Pandas
 * [US State of Nevada to use AI to help process applications fo unemployment benefits](https://arstechnica.com/tech-policy/2024/09/ai-ruling-on-jobless-claims-could-make-mistakes-courts-cant-undo-experts-warn/)
+* [Probability and Statistics - The Science of Uncertainty](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/)
