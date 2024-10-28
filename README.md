@@ -13,3 +13,4 @@ Resources and links on topics related to 608
 * [Regular Expressions](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.extract.html) in Pandas
 * [US State of Nevada to use AI to help process applications fo unemployment benefits](https://arstechnica.com/tech-policy/2024/09/ai-ruling-on-jobless-claims-could-make-mistakes-courts-cant-undo-experts-warn/)
 * [Probability and Statistics - The Science of Uncertainty](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/)
+* Andrej Karpathy's course [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
